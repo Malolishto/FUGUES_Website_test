@@ -1,0 +1,29 @@
+---
+title: 'Functional Genomics Using Endosymbionts'
+pagetitle: 'FUGUES'
+output: 
+  html_document: 
+    css: "styles.css"
+---
+
+```{R echo=F, eval=F}
+#to build this website into the _site directory, run
+rmarkdown::site_generator()
+```
+ 
+
+<br>
+
+# Welcome! I am Jacob Risch. 
+  
+</br>
+
+##### I weigh almost 170 pounds and I can eat an unlimited amount of oysters at any given time.
+
+##### I enjoy learning at UT, texting pen pals and working out. 
+
+##### I like everyone! And I, like Bevo, hold no advanced degrees.  
+
+##### I don't have any data-related projects either, but if I did you could find them [here](/portfolio)!
+
+---
