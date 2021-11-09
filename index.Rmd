@@ -14,16 +14,20 @@ rmarkdown::site_generator()
 
 <br>
 
-# Welcome! I am Jacob Risch. 
+# Welcome To FUGUES!
   
 </br>
 
-##### I weigh almost 170 pounds and I can eat an unlimited amount of oysters at any given time.
+##### FUGUES (Functional Genomics Using Endosymbionts) is an effort by the 
 
-##### I enjoy learning at UT, texting pen pals and working out. 
+##### Barrick and Moran labs at the University of Texas at Austin to elucidate 
 
-##### I like everyone! And I, like Bevo, hold no advanced degrees.  
+##### the function of genes in Honey bees and Bumble bees by taking advantage
 
-##### I don't have any data-related projects either, but if I did you could find them [here](/portfolio)!
+##### of their gut symbionts to induce gene knockdown via RNA interference.
+
+##### The project hopes to standardize a method for gene knockdown in bees that
+
+##### can be done not just by molecular biologist but by all EDGE researchers.
 
 ---

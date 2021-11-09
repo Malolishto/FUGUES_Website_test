@@ -1,11 +1,15 @@
 name: "Jacob Risch"
 navbar:
-  title: "My Site"
+  title: "FUGUES"
   left:
     - text: "Home"
       href: index.html
-    - text: "Portfolio"
-      href: portfolio.html
+    - text: "Protocols"
+      href: Protocols.html
+    - text: "Papers"
+      href: Papers.html
+    - text: "Getting Started"
+      href: Getting_Started.html
   right: 
     - icon: fa-envelope fa-lg
       href: mailto:<risch-student@utexas.edu>
